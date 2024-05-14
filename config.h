@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font =
-    "Monocraft Nerd Font:pixelsize=12:antialias=true:autohint=true";
+    "JetbrainsMono Nerd Font:pixelsize=12:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
